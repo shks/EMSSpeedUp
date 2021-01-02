@@ -1,4 +1,4 @@
-# Agency EMS Faster Experiment System
+# Agency EMS SpeedUp Experiment System
 
 Project for 'Preserving Agency During Electrical Muscle Stimulation Training Speeds up Reaction Time Directly After Removing EMS', CHI 2021 Paper.
 
