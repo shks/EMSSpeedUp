@@ -2,7 +2,8 @@
 
 This code allows you to run simple reaction time experiments in which your participants' reaction time is accelerated by means of Electrical Muscle Stimulation (EMS). 
 
-This code was derived from 'Preserving Agency During Electrical Muscle Stimulation Training Speeds up Reaction Time Directly After Removing EMS', [https://lab.plopes.org/#EMSspeedup](more info & read our CHI 2021 Paper), by Shunichi Kasahara, Kazuma Takada, Jun Nishida, Kazuhisa Shibata, Shinsuke Shimojo and Pedro Lopes. 
+This code was derived from 'Preserving Agency During Electrical Muscle Stimulation Training Speeds up Reaction Time Directly After Removing EMS', [more info & read our CHI 2021 Paper](https://lab.plopes.org/#EMSspeedup), by Shunichi Kasahara, Kazuma Takada, Jun Nishida, Kazuhisa Shibata, Shinsuke Shimojo and Pedro Lopes. 
+
 
 ### Software pre-requisites
 
