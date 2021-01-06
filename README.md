@@ -24,5 +24,5 @@ Run this code to acquire  data for the Main Study (refer to Study #2 in [our CHI
 
 # Middleware Code overview (in Arduino)
 
-- ``ReactionTimeMeasure
+- ``ReactionTimeMeasure``
 This is a simple firmware that talks between an Arduino and the TouchDesigner experiments, it implements a simple serial protocol that was designed for this study. 
