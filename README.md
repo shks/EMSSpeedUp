@@ -11,16 +11,16 @@ This uses TouchDesigner. We recommend using the "64Bit Build 2018.28120" version
 
 ### Hardware pre-requisites
 
-* We used a BioSync Electrical Muscle Stimulator (design by [https://junis.sakura.ne.jp/wp/portfolio-item/biosync/](Jun Nishida, CHI2017 Paper), via Serial (over USB); please refer to [https://lab.plopes.org/#EMSspeedup](our CHI 2021 Paper) for hardware requirements.
-* We used an Arduino microcontroller connected to a simple capacitive touch sensor as our button for the reaction time tests (code included); please refer to [https://lab.plopes.org/#EMSspeedup](our CHI 2021 Paper) for hardware requirements.
+* We used a BioSync Electrical Muscle Stimulator (design by [Jun Nishida(see CHI2017 Paper)](https://junis.sakura.ne.jp/wp/portfolio-item/biosync/), via Serial (over USB); please refer to [our CHI 2021 Paper](https://lab.plopes.org/#EMSspeedup) for hardware requirements.
+* We used an Arduino microcontroller connected to a simple capacitive touch sensor as our button for the reaction time tests (code included); please refer to [our CHI 2021 Paper](https://lab.plopes.org/#EMSspeedup) for hardware requirements.
 
 # Software Code overview (in TouchDesigner)
 
 - AgencyGateLearn_PreStudy.toe
-Run this code to acquire data for "Agency Curve" (refer to Study #1 in [https://lab.plopes.org/#EMSspeedup](our CHI 2021 Paper)
+Run this code to acquire data for "Agency Curve" (refer to Study #1 in [our CHI 2021 Paper](https://lab.plopes.org/#EMSspeedup))
 
 - AgencyGateLearn_MainStudy.toe
-Run this code to acquire  data for the Main Study (refer to Study #2 in [https://lab.plopes.org/#EMSspeedup](our CHI 2021 Paper)
+Run this code to acquire  data for the Main Study (refer to Study #2 in [our CHI 2021 Paper](https://lab.plopes.org/#EMSspeedup))
 
 # Middleware Code overview (in Arduino)
 
