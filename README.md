@@ -1,4 +1,4 @@
-# Agency EMS SpeedUp Experiment System
+# Experimental Apparatus to show that: EMS speeds up someone's reaction time but only if you train with an Agency-preserving EMS device!
 
 This code allows you to run simple reaction time experiments in which your participants' reaction time is accelerated by means of Electrical Muscle Stimulation (EMS). 
 
